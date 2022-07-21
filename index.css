@@ -1,0 +1,25 @@
+body{
+    background-color: darkslateblue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hour ,.min ,.sec ,.milisec {
+    font-size: 150px;
+}
+.text {
+    font-size: 50px;
+}
+#start{
+    background-color: greenyellow;
+}
+#stop{
+   background-color: yellow;
+}
+#reset{
+    background-color: red;
+}
+.btns{
+    display:inline-block    
+}
